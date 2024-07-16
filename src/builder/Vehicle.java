@@ -51,4 +51,15 @@ public class Vehicle {
 	}
 	
 	
+	// create a static nested class which contain the all the arguments of outer class
+	
+	//the main class has private constructor so to create the instance only via Builder class
+	
+	// builder can have the public constructor with all required parameters
+	
+	// for optional parameter we have setter method in builder class
+	
+	// the main class 'Vehicle' has only the getter method because through setter anyone can change
+	// the value outside.
+	
 }
