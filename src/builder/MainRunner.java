@@ -7,9 +7,6 @@ public class MainRunner {
 		
 		System.out.println(" Car engine: "+car.getEngine()+" Seats: "+car.getSeats()+ " Airbags "+ car.getAirbags());
 		System.out.println(" Car engine: "+bike.getEngine()+" Seats: "+bike.getSeats()+ " Airbags "+ bike.getAirbags());
-		
-		
-		
 	}
 
 }
